@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # K8sGPT Installation and Configuration Guide
 
 ## DEB-based Installation (Ubuntu/Debian)
